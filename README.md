@@ -1,5 +1,5 @@
 # Zipf's Law #
-## Counting the frequency distribution of words in a guven file ##
+## Counting the frequency distribution of words in a given file ##
 
 ![image](https://user-images.githubusercontent.com/97677773/150036551-c0633b92-60bb-4d9d-88bb-38430b6ebf99.png)
 
