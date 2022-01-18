@@ -70,3 +70,15 @@ ax = df[:50].plot(x='Word', y='Frequency', kind='bar', title ="Words and Frequen
 ax.set_xlabel("Word")
 ax.set_ylabel("Frequency")
 plt.show()
+
+#words and their ranks
+print('Ranking distributition of top 30 words:')
+ax = df[:50].plot(x='Word', y='Rank', kind='bar', title ="Words and Rank", figsize=(9, 9), legend=True)
+ax.set_xlabel("Word")
+ax.set_ylabel("Rank")
+plt.show()
+
+ax = df.plot(x='Rank', y='K / Proportionality Constant', kind='line', title ="r v/s K", figsize=(9, 9), legend=True)
+ax.set_xlabel("Rank")
+ax.set_ylabel("K / Proportionality Constant")
+plt.show()
