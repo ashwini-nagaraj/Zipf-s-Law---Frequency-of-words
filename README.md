@@ -1,7 +1,7 @@
 # Zipf's Law #
 ## Counting the frequency distribution of words in a given file ##
 
-![image](https://user-images.githubusercontent.com/97677773/150036551-c0633b92-60bb-4d9d-88bb-38430b6ebf99.png | width=100) 
+<img  data-canonical-src="https://user-images.githubusercontent.com/97677773/150036551-c0633b92-60bb-4d9d-88bb-38430b6ebf99.png" width="200" height="400" />
 
 ![image](https://user-images.githubusercontent.com/97677773/150036592-6659a4ba-5aa8-4f62-94ba-84a2f20a8f8c.png | width=100) 
 
